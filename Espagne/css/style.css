@@ -1,0 +1,193 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+  background-color:yellow;
+
+}
+
+.choix{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+    width: 80%;
+  float: right;
+
+}
+
+
+.choix1,.choix2,.choix3,.choix4{
+float: left;
+display: block;
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+#carte{
+  margin-left: 500px;
+}
+#Présentation{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:100px;
+  left:350px;
+}
+#capital{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:520px;
+  left:270px;
+}
+#monnaie{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:850px;
+  left:270px;
+}
+#Langue{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:1180px;
+  left:270px;
+}
+#dico{
+
+position:absolute;
+  top:20px;
+right:310px;
+}
+
+#démographie{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:1500px;
+  left:270px;
+}
+#ville{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:1850px;
+  left:270px;
+}
+#MadridV{
+  position:absolute;
+  top: 0px;
+right:370px ;
+}
+#BarceloneV{
+  position: absolute;
+    top: 0px;
+}
+#SévilleV{
+  position: absolute;
+    top: 0px;
+  left: 300px;
+}
+h2{
+  border:solid 10px blue;
+  max-height: 900px;
+  height: 300px;
+  border: solid 5px black;
+  margin-left: 500px;
+  width: 50%;
+background-color: red;
+  text-align: center;
+}
+h1{
+  border: solid 5px red;
+  text-align: center;
+  background-color: red;
+}
+#roi{
+  margin-left: 500px;
+}
+#definition{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:150px;
+  left:350px;
+}
+th{
+  border: 5px solid black;
+  background-color: red;
+}
+tr,td{
+  border: 5px solid black;
+}
+#Politique{
+  margin-left: 500px;
+}
+#centre_financier{
+  margin-left: 500px;
+}
+#Economie{
+  margin-left:600px;
+  width: 300px;
+  position:absolute;
+  top:1000px;
+  left:350px;
+}
+fieldset{
+  background-color: lightblue;
+  text-align: center;
+
+  max-width: 50%;
+  height: 500px;
+  margin-top: 200px;
+  padding-top:10px;
+  margin-left: 500px;
+  font-size: 30px;
+  font-family:inherit;
+  box-shadow: 20px 10px 5px gray;
+
+}
+#fond{
+  background-color: #dedede;
+}
+#Barca{
+  margin-left: 200px;
+position: absolute;
+top: 100px;
+}
+#LieuBarca{
+  margin-left: 850px;
+  position:absolute;
+top: 200px;
+}
+#MAdrid{
+  margin-left: 200px;
+  position: absolute;
+  top: 800px;
+}
+#LieuMadrid{
+  margin-left: 850px;
+  position:absolute;
+top: 900px;
+}
+#Séville{
+  margin-left: 200px;
+  position: absolute;
+  top: 1600px;
+}
+#LieuSéville{
+  margin-left: 850px;
+  position:absolute;
+top: 1750px;
+}
+#fond2{
+  background-color: #fdf1b8;
+}
